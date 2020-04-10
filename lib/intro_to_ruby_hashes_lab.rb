@@ -8,12 +8,9 @@ def my_hash
 end
 
 def pioneer
-  developer = {:name => "Grace Hopper"}
-  # developer
+  developer = {:name => "Grace Hopper"} # this is autom'y returned. No need to write another line 
 end
 
-
 def id_hash_generator(number)
-  make_hash = {:id => number}
-  # make_hash
+  make_hash = {:id => number} # this is autom'y returned. No need to write another line 
 end
