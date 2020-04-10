@@ -4,7 +4,7 @@ end
 
 def my_hash
   dog_object = Hash.new
-  ["Dog"] = "rotweiller"
+  dog_object["Dog"] = "rotweiller"
 end
 
 def pioneer
