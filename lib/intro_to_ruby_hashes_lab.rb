@@ -1,9 +1,9 @@
 def new_hash
-  Hash.new
+  Hash.new # this is autom'y returned. No need to write another line 
 end
 
 def my_hash
-  dog_object = {:Species => "Rotweiller"}
+  dog_object = {:Species => "Rotweiller"} # this is autom'y returned. No need to write another line 
   
 end
 
