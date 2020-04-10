@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  Hash.new
+  dog_object = Hash.new
   ["Dog"] = "rotweiller"
 end
 
