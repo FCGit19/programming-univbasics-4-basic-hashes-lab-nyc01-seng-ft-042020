@@ -4,7 +4,7 @@ end
 
 def my_hash
   Hash.new
-  
+  ["Dog"] = "r"
 end
 
 def pioneer
