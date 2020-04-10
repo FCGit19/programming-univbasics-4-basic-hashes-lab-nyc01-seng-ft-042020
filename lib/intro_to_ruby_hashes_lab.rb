@@ -3,8 +3,8 @@ def new_hash
 end
 
 def my_hash
-  grades = Hash.new
-grades["Dorothy Doe"] = 9
+  dog_object = {:Species => "Rotweiller"}
+  
 end
 
 def pioneer
