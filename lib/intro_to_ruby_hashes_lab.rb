@@ -9,7 +9,7 @@ end
 
 def pioneer
   developer = {:name => "Grace Hopper"}
-  developer
+  # developer
 end
 
 
