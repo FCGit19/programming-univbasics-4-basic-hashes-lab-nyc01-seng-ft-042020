@@ -3,8 +3,8 @@ def new_hash
 end
 
 def my_hash
-  dog_object = Hash.new
-  dog_object[Dog] = rotweiller
+  grades = Hash.new
+grades["Dorothy Doe"] = 9
 end
 
 def pioneer
